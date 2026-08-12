@@ -16,9 +16,18 @@ namespace CircuitGame
         [SerializeField] private TextMeshProUGUI questionTitleText;
         [SerializeField] private TextMeshProUGUI givenValue1Text;
         [SerializeField] private TextMeshProUGUI givenValue2Text;
-        /// <summary>
-        /// [SerializeField] private TextMeshProUGUI formulaText;
-        /// </summary>
+ 
+        [Header("── Circuito Visual ─────────────────")]
+        [SerializeField] private CircuitVisualizer circuitVisualizer;
+ 
+        // ── NOVO: sprites que aparecem nos botões de resposta ──
+        [Header("── Sprites dos Botões de Resposta ──")]
+        [Tooltip("Sprite exibido nos botões quando a questão pede Tensão (V)")]
+        [SerializeField] private Sprite voltageButtonSprite;
+        [Tooltip("Sprite exibido nos botões quando a questão pede Corrente (I)")]
+        [SerializeField] private Sprite currentButtonSprite;
+        [Tooltip("Sprite exibido nos botões quando a questão pede Resistência (Ω)")]
+        [SerializeField] private Sprite resistanceButtonSprite;
  
         [Header("── Botões de Resposta (arraste os 4) ──")]
         [SerializeField] private AnswerButton[] answerButtons;
@@ -26,26 +35,23 @@ namespace CircuitGame
         [Header("── Tutorial ────────────────────────")]
         [SerializeField] private GameObject      tutorialPanel;
         [SerializeField] private TextMeshProUGUI tutorialText;
-        // Botão "Começar →" dentro do TutorialPanel
         [SerializeField] private Button          tutorialNextButton;
  
-        [Header("── Painel de Feedback (fases intermediárias) ──")]
+        [Header("── Painel de Feedback ──────────────")]
         [SerializeField] private GameObject      feedbackPanel;
         [SerializeField] private TextMeshProUGUI feedbackTitleText;
         [SerializeField] private TextMeshProUGUI feedbackDetailText;
-        // Apenas o botão Próxima Fase — Retry foi removido
         [SerializeField] private Button          nextButton;
  
         [Header("── Tela de Conclusão ───────────────")]
         [SerializeField] private GameObject      completePanel;
         [SerializeField] private TextMeshProUGUI completeText;
-        [SerializeField] private Button          restartButton;   // único botão de ação
+        [SerializeField] private Button          restartButton;
  
         [Header("── Cores ───────────────────────────")]
         [SerializeField] private Color correctColor   = new Color(0.2f, 0.8f, 0.3f);
         [SerializeField] private Color incorrectColor = new Color(0.9f, 0.2f, 0.2f);
  
-        // =====================================================
         private void Awake()
         {
             SetActive(feedbackPanel, false);
@@ -59,7 +65,6 @@ namespace CircuitGame
             ValidateReferences();
         }
  
-        // =====================================================
         public void DisplayQuestion(CircuitQuestion question, bool isTutorial)
         {
             SetActive(feedbackPanel, false);
@@ -69,23 +74,33 @@ namespace CircuitGame
             int total = GameManager.Instance.TotalPhases;
             int score = GameManager.Instance.Score;
  
-            // Tutorial → "Tutorial" | Fase real → "Fase 1 / 5"
-            SetText(phaseText, isTutorial
-                ? "0/0"
-                : $"{phase}/{total}");
- 
+            SetText(phaseText, isTutorial ? "0/0" : $"{phase}/{total}");
             SetText(scoreText,         $"Score: {score}");
             SetText(questionTitleText,  question.QuestionTitle);
             SetText(givenValue1Text,    question.GivenValue1);
             SetText(givenValue2Text,    question.GivenValue2);
-            //SetText(formulaText,        question.Formula);
+ 
+            if (circuitVisualizer != null)
+                circuitVisualizer.UpdateCircuit(question);
+            else
+                Debug.LogWarning("[UIManager] circuitVisualizer não atribuído!");
+ 
+            // Escolhe o sprite correto com base no que a questão pede
+            Sprite buttonSprite = question.Type switch
+            {
+                QuestionType.FindVoltage    => voltageButtonSprite,
+                QuestionType.FindCurrent    => currentButtonSprite,
+                QuestionType.FindResistance => resistanceButtonSprite,
+                _                           => null
+            };
  
             for (int i = 0; i < answerButtons.Length; i++)
             {
                 if (answerButtons[i] == null) continue;
                 float value     = question.Options[i];
                 bool  isCorrect = Mathf.Abs(value - question.CorrectAnswer) < 0.001f;
-                answerButtons[i].Setup(value, question.Unit, isCorrect, isTutorial);
+                // Passa o sprite junto com os outros parâmetros
+                answerButtons[i].Setup(value, question.Unit, isCorrect, isTutorial, buttonSprite);
             }
  
             if (isTutorial)
@@ -104,10 +119,6 @@ namespace CircuitGame
             }
         }
  
-        // =====================================================
-        /// <summary>
-        /// Chamado só nas fases intermediárias (não na última).
-        /// </summary>
         public void ShowFeedback(bool isCorrect, CircuitQuestion question)
         {
             SetActive(feedbackPanel, true);
@@ -137,15 +148,10 @@ namespace CircuitGame
                     $"<color=#FFD700>{question.Solution}</color>");
             }
  
-            // Botão "Próxima Fase" sempre visível (retry não existe mais)
             if (nextButton != null)
                 nextButton.gameObject.SetActive(true);
         }
  
-        // =====================================================
-        /// <summary>
-        /// Tela final — aparece após a última fase (acerto ou erro).
-        /// </summary>
         public void ShowGameComplete(int score, int total)
         {
             SetActive(feedbackPanel, false);
@@ -168,7 +174,6 @@ namespace CircuitGame
                 $"(o Tutorial aparecerá novamente)</size>");
         }
  
-        // =====================================================
         private void SetActive(GameObject obj, bool active)
         {
             if (obj != null) obj.SetActive(active);
@@ -185,12 +190,15 @@ namespace CircuitGame
  
         private void ValidateReferences()
         {
-            if (tutorialNextButton == null)
-                Debug.LogWarning("[UIManager] ⚠ tutorialNextButton não atribuído!");
-            if (nextButton    == null) Debug.LogWarning("[UIManager] ⚠ nextButton não atribuído.");
-            if (feedbackPanel == null) Debug.LogWarning("[UIManager] ⚠ feedbackPanel não atribuído.");
-            if (completePanel == null) Debug.LogWarning("[UIManager] ⚠ completePanel não atribuído.");
-            if (restartButton == null) Debug.LogWarning("[UIManager] ⚠ restartButton não atribuído.");
+            if (circuitVisualizer      == null) Debug.LogWarning("[UIManager] ⚠ circuitVisualizer não atribuído!");
+            if (voltageButtonSprite    == null) Debug.LogWarning("[UIManager] ⚠ voltageButtonSprite não atribuído!");
+            if (currentButtonSprite    == null) Debug.LogWarning("[UIManager] ⚠ currentButtonSprite não atribuído!");
+            if (resistanceButtonSprite == null) Debug.LogWarning("[UIManager] ⚠ resistanceButtonSprite não atribuído!");
+            if (tutorialNextButton     == null) Debug.LogWarning("[UIManager] ⚠ tutorialNextButton não atribuído!");
+            if (nextButton             == null) Debug.LogWarning("[UIManager] ⚠ nextButton não atribuído.");
+            if (feedbackPanel          == null) Debug.LogWarning("[UIManager] ⚠ feedbackPanel não atribuído.");
+            if (completePanel          == null) Debug.LogWarning("[UIManager] ⚠ completePanel não atribuído.");
+            if (restartButton          == null) Debug.LogWarning("[UIManager] ⚠ restartButton não atribuído.");
         }
     }
 }

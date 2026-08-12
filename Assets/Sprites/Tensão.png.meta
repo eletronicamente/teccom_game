@@ -1,0 +1,3600 @@
+fileFormatVersion: 2
+guid: c55a721f68515296f9f4ec1448e0efc9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2188819256482050025
+    second: "Tens\xE3o_0"
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "Tens\xE3o_0"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 584
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9efa524548f306e10800000000000000
+      internalID: 2188819256482050025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tens\xE3o_1"
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 584
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bce55ab29e18ac3abad298ba6f598367
+      internalID: -655927049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tens\xE3o_2"
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 584
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfeca67713cc85084af4c526c31f970d
+      internalID: -2018270619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tens\xE3o_3"
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 584
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e8d541fcbbba37b093eb973e4404782
+      internalID: 2099740519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tens\xE3o_4"
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 584
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1735927f371fca595b703cd77ba2d15f
+      internalID: -1131638448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tens\xE3o_5"
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 584
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebd521846aa17cab4a8585fdaa99c03c
+      internalID: -1360880898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tens\xE3o_6"
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 584
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d3d9291178e9bb9a981f368eb009512
+      internalID: 1687548701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tens\xE3o_7"
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 584
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e50a9b6789437122887069c54d0a325b
+      internalID: -79992542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tens\xE3o_8"
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 584
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7d532e06db1b0598b0e94975cac4c1d
+      internalID: 1021269101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tens\xE3o_9"
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 584
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e25b815c0f3d00808aabe7e300dcb19c
+      internalID: -71141362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tens\xE3o_10"
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 584
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c0aaa9ce557b37cbae395c0de18d3b1
+      internalID: 491547452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tens\xE3o_11"
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 584
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aecd07889ac08b95a319ee5cf3cc29a
+      internalID: -128153489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tens\xE3o_12"
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 584
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a07db04026a4fdd086f29bcd2ffe640
+      internalID: -1876958012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tens\xE3o_13"
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 584
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5f9dffa429e047dab32a3b87623ed8f
+      internalID: -1051663744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tens\xE3o_14"
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 584
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65d5a9bb8ca834b69a35e3133a21a783
+      internalID: 1574976232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tens\xE3o_15"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 520
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7188361593d51062b83e365ee0a146d0
+      internalID: 2053650915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tens\xE3o_16"
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 520
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5880a00482d7ecc6180bf469cac76dbb
+      internalID: -1278397464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tens\xE3o_17"
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 520
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 375088ba71a00b4b8bb649f5a7f4fa75
+      internalID: -1488172830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tens\xE3o_18"
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 520
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16b77ecb85e33388d89420478ac0bf95
+      internalID: 1240041252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tens\xE3o_19"
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 520
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 588404edbec609fc5b81ab9a62fd5a82
+      internalID: 404631437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tens\xE3o_20"
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 520
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7debd74f78366c8ba99b2c1cb221897c
+      internalID: -656752635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tens\xE3o_21"
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 520
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9078a0ed41d1b555c8273818d512d868
+      internalID: -1557338064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tens\xE3o_22"
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 520
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4cc53c0563cb018a92d28b1ebf9ae4f
+      internalID: -81451821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tens\xE3o_23"
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 520
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fa4f1658bbb0d98a98bdc48290da742
+      internalID: 1101708017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tens\xE3o_24"
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 520
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0e7e988ad91f948bba6d7d6689d17f9
+      internalID: -233103903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tens\xE3o_25"
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 520
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4a8464e3de0948939585ee1022d94f0
+      internalID: 1901950384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tens\xE3o_26"
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 520
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6f0fbfcddfb05f19b86bad2ef7623c6
+      internalID: -440911955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tens\xE3o_27"
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 520
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 069d1cb529b25f1c5bd7d67b131ff984
+      internalID: -941543742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tens\xE3o_28"
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 520
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9b20cd1a0a31057a816d59a9ab1cfe1
+      internalID: 601839030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tens\xE3o_29"
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 520
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e177c72013cc1de7091a0cc3274df12c
+      internalID: -956398995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tens\xE3o_30"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 456
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8af8a332abf7a73d4ac8b8ae3896b06d
+      internalID: -18303531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tens\xE3o_31"
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 456
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52bfbb12707dc3128a396679677bcaa1
+      internalID: 1748340408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tens\xE3o_32"
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 456
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d50034ebb273732ea85d208a18554ff
+      internalID: -1909180218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tens\xE3o_33"
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 456
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a84ff3b9cfba16326996569c86d753c1
+      internalID: -1323135528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tens\xE3o_34"
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 456
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c14ac87e6b3ad65ab3c314bd663a730
+      internalID: 737996305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tens\xE3o_35"
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 456
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 383b499249cf21eafb4f6348a437d265
+      internalID: -552103358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tens\xE3o_36"
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 456
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aad9aada3b6663e5aae4c0d4d46e4de
+      internalID: -1147293924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tens\xE3o_37"
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 456
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 837e6a97d8c6949a38a2f2e561d89d0c
+      internalID: -116756420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tens\xE3o_38"
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 456
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21d280e8a5517cc63b3599b4b66d4274
+      internalID: 317111180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tens\xE3o_39"
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 456
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0230b888eaab2bcd08a633d538875cc3
+      internalID: -2048947139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tens\xE3o_40"
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 456
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83ee78cecce59a5a3954a0361582c147
+      internalID: 1595854458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tens\xE3o_41"
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 456
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cef937a1db89884e8b7c997c0a875ce
+      internalID: 1257204911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tens\xE3o_42"
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 456
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9680f480d24320819b1bfa18a5fcaa4
+      internalID: -451032623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tens\xE3o_43"
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 456
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70e586a4850a7c0d28a06221b9cba0f3
+      internalID: -544178054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tens\xE3o_44"
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 456
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b154a9730d6e2bade9790e8fdb204629
+      internalID: -1391335420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tens\xE3o_45"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 392
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77f33377723dafa3189ec56cdda6f947
+      internalID: 2097383236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tens\xE3o_46"
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 392
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebb29ba9520b636738941075cf80748d
+      internalID: 900945832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tens\xE3o_47"
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 392
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19c20fb825214884091029516fbe275f
+      internalID: 2010972481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tens\xE3o_48"
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 392
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d65cceff04e429793a54f821f9130c07
+      internalID: 275945729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tens\xE3o_49"
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 392
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7455e99ea76eb7ceb8207b48b079a85f
+      internalID: 2038939301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tens\xE3o_50"
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 392
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 090d5aee803beddd2a35341eec2b0d04
+      internalID: 403390428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tens\xE3o_51"
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 392
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41bc13089ee6f58a382ee7350ec6df69
+      internalID: -374582174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tens\xE3o_52"
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 392
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04c7a989c9161ebc998ef2f60f318c21
+      internalID: 1330072641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tens\xE3o_53"
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 392
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5951bf957b276d994ba2da9826ff8abd
+      internalID: 1118214256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tens\xE3o_54"
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 392
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3e0e7a5d0c871071b4fb009d3a54cc0
+      internalID: -1797637482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tens\xE3o_55"
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 392
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c62a166a9452ada6f9afbb5a7e9408b8
+      internalID: -911093711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tens\xE3o_56"
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 392
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 938e9502611721b99ad0501ef1fa3486
+      internalID: -1878504199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tens\xE3o_57"
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 392
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0a94b78f21d62f87ade7864fb989c33
+      internalID: 1688823237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tens\xE3o_58"
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 392
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2210e8015b50899a4bb2f00dbb4c4ffa
+      internalID: -789849168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tens\xE3o_59"
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 392
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 677431fcc864fc6aaad823f0be14ae60
+      internalID: 1967239947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tens\xE3o_60"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 328
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7be97935f6940bf8eaad474129425c04
+      internalID: -121156832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tens\xE3o_61"
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 328
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b18684faca7beb2afbaafa01c8df7297
+      internalID: 1403335748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tens\xE3o_62"
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 328
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30a43c590cc8792cfbc300fae8f7d89e
+      internalID: -1779941190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tens\xE3o_63"
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 328
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee3a1966072de181886f356b38e90a43
+      internalID: 592077293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tens\xE3o_64"
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 328
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a25c5cfd0f106a13ab45a6812b58e082
+      internalID: -1618266782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tens\xE3o_65"
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 328
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c09f319df5acbb8d6ba9e32969eb14ec
+      internalID: -1264155765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tens\xE3o_66"
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 328
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc5ecd88dbf233e87a9f8b8e8af5ecb2
+      internalID: -606147167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tens\xE3o_67"
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 328
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a5135447549a03509e245c7ded0e352
+      internalID: 1326849745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tens\xE3o_68"
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 328
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cadc19f89143bef0b2dc4321d2e8c6f
+      internalID: 83598585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tens\xE3o_69"
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 328
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21ced19e82fc6cd82b15e58c24cf1397
+      internalID: 1816981002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tens\xE3o_70"
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 328
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a02fa4f744dce44ceb5c5aef485e0880
+      internalID: -1477099660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tens\xE3o_71"
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 328
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3c92702b9154e29c8cfeb24a1d9d1d4
+      internalID: 920966625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tens\xE3o_72"
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 328
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fb7a39fcc582e940ae490cf6b9ed5d5
+      internalID: 1469782855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tens\xE3o_73"
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 328
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 754b2977c83930a22a2afcc9498fd6e2
+      internalID: 627076177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tens\xE3o_74"
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 328
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 201cfbccae4b61af8b1cf2b115337ca5
+      internalID: 1993061561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tens\xE3o_75"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 264
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ade52486cd60cb7229329f2476dc7c12
+      internalID: 1649459955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tens\xE3o_76"
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 264
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b03f90b5054944c99b3d8271ec88b980
+      internalID: -227111380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tens\xE3o_77"
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 264
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d73be1c1ab24044a098f4a5f213cda12
+      internalID: -320841287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tens\xE3o_78"
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 264
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10911c8c137c23e6f92d08cbec32a73f
+      internalID: -1151257415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tens\xE3o_79"
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 264
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b523b339b7604bc4a44ae1744d7ca35
+      internalID: -708281772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tens\xE3o_80"
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 264
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d244899f8098d213da623c21cef35b22
+      internalID: 2052017036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tens\xE3o_81"
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 264
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbea7391c510f044eb1b2ff437da334c
+      internalID: 581052374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tens\xE3o_82"
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 264
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83185d06f996cec5db85d4682f52c4fd
+      internalID: 1512221852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tens\xE3o_83"
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 264
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 263ac53170093cc229ba1a0c1056c7e7
+      internalID: -1638895922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tens\xE3o_84"
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 264
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1e9dc889a46eb8b793b8857a048148e
+      internalID: -1760949205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tens\xE3o_85"
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 264
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b72c89c0d64784748916e677b6adbe39
+      internalID: -1796982815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tens\xE3o_86"
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 264
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7795aa95335a54d52ab65295faad0d49
+      internalID: 1400337181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tens\xE3o_87"
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 264
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a84abf9a5a06afe7b21aad9f06adbf8
+      internalID: 1105295481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tens\xE3o_88"
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 264
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b081f02cace242d13b8b6d0d8b1f932b
+      internalID: -266510286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tens\xE3o_89"
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 264
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b86c48090542243e9672515d79fb9c2
+      internalID: -760182122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tens\xE3o_90"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 200
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29d39f7496235d16b8c53f3a91900505
+      internalID: -1918505947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tens\xE3o_91"
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 200
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2bbbced6ec954611a98f6f241557aff
+      internalID: 1786545283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tens\xE3o_92"
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 200
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 713863c7bd28ea64ead2bd514f5d110d
+      internalID: 1542656882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tens\xE3o_93"
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 200
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adad7f8154b3d7a29b5d706e8b207e8b
+      internalID: 1546328466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tens\xE3o_94"
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 200
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47e306e1ee9840ddaa724750e7716058
+      internalID: 302842230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tens\xE3o_95"
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 200
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43a0a8a927ba833688995d7cbabddd27
+      internalID: -2020965899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tens\xE3o_96"
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 200
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e64acc8be3be90e1eaa29757967a5e9e
+      internalID: -986658169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tens\xE3o_97"
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 200
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe187d4305cc6d56e94b449d0fe9e5d1
+      internalID: 523103941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tens\xE3o_98"
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 200
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4cbe0590f6596647acf37ab78c53335
+      internalID: 1436345597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tens\xE3o_99"
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 200
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87e6f33b9307defb7a13a5a9f8194435
+      internalID: 462274957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tens\xE3o_100"
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 200
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 139704b18dea8ffc98d606483ec5fd3f
+      internalID: 1485081899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tens\xE3o_101"
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 200
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85a3e4be787cac1e296f5466df6847f6
+      internalID: -789774320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tens\xE3o_102"
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 200
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bde275f76af33245956b8b07394300c
+      internalID: -243913300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tens\xE3o_103"
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 200
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eb2e72a90d134f79ba76bf29c4c625f
+      internalID: -1694851958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tens\xE3o_104"
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 200
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db8c456ab222891c399e56d5abe66ae9
+      internalID: 1802306943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tens\xE3o_105"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 136
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fc47be947cae3e9191e36ce9119d114
+      internalID: -90806457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tens\xE3o_106"
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 136
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1d99e568d0cfde0bb7c34df3141b705
+      internalID: 2057915277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tens\xE3o_107"
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 136
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47a6359768cba798d8ec5ea6e8496b2e
+      internalID: -1673320955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tens\xE3o_108"
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 136
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66244500660569c5f9a65481d7f910e4
+      internalID: 1589989686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tens\xE3o_109"
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 136
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a3a4ece33bcf120dbc493130d7c1837
+      internalID: -1660963993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tens\xE3o_110"
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 136
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ebd1bab4d9db064c8b2eadbe64cc60c
+      internalID: 1453394428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tens\xE3o_111"
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 136
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a497634f16bdbecebb973d02b368a368
+      internalID: 64121719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tens\xE3o_112"
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 136
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f934181cd18b30377ab04a8c6574dfa9
+      internalID: -1315464821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tens\xE3o_113"
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 136
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d227ba1555be60f31a22317d2e804a7a
+      internalID: -166823285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tens\xE3o_114"
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 136
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12c349da58630c5a6be088bed38ecec6
+      internalID: -1057324261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tens\xE3o_115"
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 136
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b4a5906c32c544ccb9931f636935b46
+      internalID: -617706254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tens\xE3o_116"
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 136
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4988c9ab6ae67340854b50b98c08ed7
+      internalID: -1025362234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tens\xE3o_117"
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 136
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1986780985de6546791d94e035818f33
+      internalID: -872003187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tens\xE3o_118"
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 136
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5d30989a3f3f7b4bac9cfb07c72538f
+      internalID: -483811493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tens\xE3o_119"
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 136
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9479651e6b2e26355b3329cbf3038cde
+      internalID: 19909717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tens\xE3o_120"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 72
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01e1178bafc224cfc91a661d74a338d7
+      internalID: 1709978337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tens\xE3o_121"
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 72
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97a223d49dafaf0ab95c47440de91402
+      internalID: -255808069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tens\xE3o_122"
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 72
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3491cfcf73817ab8588491968ace2854
+      internalID: 900405817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tens\xE3o_123"
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 72
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a53d8a958fe1d7ae298358946aa703b1
+      internalID: 1145783958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tens\xE3o_124"
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 72
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9984d140c3c15960495f4b66ee659cef
+      internalID: 185309715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tens\xE3o_125"
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 72
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e209e7011ea14aeb4b24f7f739515bbc
+      internalID: -684816544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tens\xE3o_126"
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 72
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b231eaf2d277341b399eca438db76d75
+      internalID: 903974957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tens\xE3o_127"
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 72
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24d0eb80769eee2a89a6b51f057c7b51
+      internalID: -1224840995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tens\xE3o_128"
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 72
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bc0b9decb56be83393cac21d5b0ce9b
+      internalID: 539682243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tens\xE3o_129"
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 72
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d16272c80a4728fe890e41ba4c0ab727
+      internalID: 724702141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tens\xE3o_130"
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 72
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85779d7c77c320b3faf0a173884f8c89
+      internalID: 1975233140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tens\xE3o_131"
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 72
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7337a499144c6ebc8748e95d849b568
+      internalID: -1330513538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tens\xE3o_132"
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 72
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfb7acb271eba57f793559ce4bd4036b
+      internalID: 77852711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tens\xE3o_133"
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 72
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2ded5ec0f855dce691ac9aacd405fe9
+      internalID: 239278032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tens\xE3o_134"
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 72
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59e90efb14344b9f0bfd966b54efc808
+      internalID: -322347163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tens\xE3o_135"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fcc32b399e26d06ca9eab898e2532f7
+      internalID: 1189378022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tens\xE3o_136"
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 8
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8d624a58b2213b8bbb4f84c055fe51a
+      internalID: -554836380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tens\xE3o_137"
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 8
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ead938ecb10f1ae79957745cf2d5d20
+      internalID: 281536126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tens\xE3o_138"
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 8
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59eed142b491d163eb34e48d9f820a47
+      internalID: 1257625797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tens\xE3o_139"
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 8
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb9020fb4588b0168b066fbcf9e746eb
+      internalID: -1350020139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tens\xE3o_140"
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 8
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41fd481185cb0fc2e98e9745804f479c
+      internalID: -1650311806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tens\xE3o_141"
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 8
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4eef3efeaf94875890b22cc0e9c892a
+      internalID: -1715989689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tens\xE3o_142"
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 8
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87614d3a3449ed0d0ba53a90de5401d6
+      internalID: -607558770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tens\xE3o_143"
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 8
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e9f47e60e40c2a4f83ab49566abb96b
+      internalID: 323470600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tens\xE3o_144"
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 8
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a6e9ef7cb6e8c551906b915e88a8ba3
+      internalID: -1817010426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tens\xE3o_145"
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 8
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bdb45a02474bb81ca538a29fe30bad6
+      internalID: 1788713435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tens\xE3o_146"
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 8
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ca9db2c7845ef001a60a23d0d3dba6e
+      internalID: 970747763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tens\xE3o_147"
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 8
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2761ee8c489364a33ab2ed9bb5a53510
+      internalID: -405319286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tens\xE3o_148"
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 8
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58186b9be250732b8b1aefafe3db4e16
+      internalID: 861149793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tens\xE3o_149"
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 8
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e22a35c6ff4c7466eaa5bb96aa712fd2
+      internalID: 1120750933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 4a49480eaea0db939ba3b91b091c87cb
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":true,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+      - key: SpriteEditor.SliceOnImport
+        value: True
+    nameFileIdTable:
+      "Tens\xE3o_0": 2188819256482050025
+      "Tens\xE3o_1": -655927049
+      "Tens\xE3o_10": 491547452
+      "Tens\xE3o_100": 1485081899
+      "Tens\xE3o_101": -789774320
+      "Tens\xE3o_102": -243913300
+      "Tens\xE3o_103": -1694851958
+      "Tens\xE3o_104": 1802306943
+      "Tens\xE3o_105": -90806457
+      "Tens\xE3o_106": 2057915277
+      "Tens\xE3o_107": -1673320955
+      "Tens\xE3o_108": 1589989686
+      "Tens\xE3o_109": -1660963993
+      "Tens\xE3o_11": -128153489
+      "Tens\xE3o_110": 1453394428
+      "Tens\xE3o_111": 64121719
+      "Tens\xE3o_112": -1315464821
+      "Tens\xE3o_113": -166823285
+      "Tens\xE3o_114": -1057324261
+      "Tens\xE3o_115": -617706254
+      "Tens\xE3o_116": -1025362234
+      "Tens\xE3o_117": -872003187
+      "Tens\xE3o_118": -483811493
+      "Tens\xE3o_119": 19909717
+      "Tens\xE3o_12": -1876958012
+      "Tens\xE3o_120": 1709978337
+      "Tens\xE3o_121": -255808069
+      "Tens\xE3o_122": 900405817
+      "Tens\xE3o_123": 1145783958
+      "Tens\xE3o_124": 185309715
+      "Tens\xE3o_125": -684816544
+      "Tens\xE3o_126": 903974957
+      "Tens\xE3o_127": -1224840995
+      "Tens\xE3o_128": 539682243
+      "Tens\xE3o_129": 724702141
+      "Tens\xE3o_13": -1051663744
+      "Tens\xE3o_130": 1975233140
+      "Tens\xE3o_131": -1330513538
+      "Tens\xE3o_132": 77852711
+      "Tens\xE3o_133": 239278032
+      "Tens\xE3o_134": -322347163
+      "Tens\xE3o_135": 1189378022
+      "Tens\xE3o_136": -554836380
+      "Tens\xE3o_137": 281536126
+      "Tens\xE3o_138": 1257625797
+      "Tens\xE3o_139": -1350020139
+      "Tens\xE3o_14": 1574976232
+      "Tens\xE3o_140": -1650311806
+      "Tens\xE3o_141": -1715989689
+      "Tens\xE3o_142": -607558770
+      "Tens\xE3o_143": 323470600
+      "Tens\xE3o_144": -1817010426
+      "Tens\xE3o_145": 1788713435
+      "Tens\xE3o_146": 970747763
+      "Tens\xE3o_147": -405319286
+      "Tens\xE3o_148": 861149793
+      "Tens\xE3o_149": 1120750933
+      "Tens\xE3o_15": 2053650915
+      "Tens\xE3o_16": -1278397464
+      "Tens\xE3o_17": -1488172830
+      "Tens\xE3o_18": 1240041252
+      "Tens\xE3o_19": 404631437
+      "Tens\xE3o_2": -2018270619
+      "Tens\xE3o_20": -656752635
+      "Tens\xE3o_21": -1557338064
+      "Tens\xE3o_22": -81451821
+      "Tens\xE3o_23": 1101708017
+      "Tens\xE3o_24": -233103903
+      "Tens\xE3o_25": 1901950384
+      "Tens\xE3o_26": -440911955
+      "Tens\xE3o_27": -941543742
+      "Tens\xE3o_28": 601839030
+      "Tens\xE3o_29": -956398995
+      "Tens\xE3o_3": 2099740519
+      "Tens\xE3o_30": -18303531
+      "Tens\xE3o_31": 1748340408
+      "Tens\xE3o_32": -1909180218
+      "Tens\xE3o_33": -1323135528
+      "Tens\xE3o_34": 737996305
+      "Tens\xE3o_35": -552103358
+      "Tens\xE3o_36": -1147293924
+      "Tens\xE3o_37": -116756420
+      "Tens\xE3o_38": 317111180
+      "Tens\xE3o_39": -2048947139
+      "Tens\xE3o_4": -1131638448
+      "Tens\xE3o_40": 1595854458
+      "Tens\xE3o_41": 1257204911
+      "Tens\xE3o_42": -451032623
+      "Tens\xE3o_43": -544178054
+      "Tens\xE3o_44": -1391335420
+      "Tens\xE3o_45": 2097383236
+      "Tens\xE3o_46": 900945832
+      "Tens\xE3o_47": 2010972481
+      "Tens\xE3o_48": 275945729
+      "Tens\xE3o_49": 2038939301
+      "Tens\xE3o_5": -1360880898
+      "Tens\xE3o_50": 403390428
+      "Tens\xE3o_51": -374582174
+      "Tens\xE3o_52": 1330072641
+      "Tens\xE3o_53": 1118214256
+      "Tens\xE3o_54": -1797637482
+      "Tens\xE3o_55": -911093711
+      "Tens\xE3o_56": -1878504199
+      "Tens\xE3o_57": 1688823237
+      "Tens\xE3o_58": -789849168
+      "Tens\xE3o_59": 1967239947
+      "Tens\xE3o_6": 1687548701
+      "Tens\xE3o_60": -121156832
+      "Tens\xE3o_61": 1403335748
+      "Tens\xE3o_62": -1779941190
+      "Tens\xE3o_63": 592077293
+      "Tens\xE3o_64": -1618266782
+      "Tens\xE3o_65": -1264155765
+      "Tens\xE3o_66": -606147167
+      "Tens\xE3o_67": 1326849745
+      "Tens\xE3o_68": 83598585
+      "Tens\xE3o_69": 1816981002
+      "Tens\xE3o_7": -79992542
+      "Tens\xE3o_70": -1477099660
+      "Tens\xE3o_71": 920966625
+      "Tens\xE3o_72": 1469782855
+      "Tens\xE3o_73": 627076177
+      "Tens\xE3o_74": 1993061561
+      "Tens\xE3o_75": 1649459955
+      "Tens\xE3o_76": -227111380
+      "Tens\xE3o_77": -320841287
+      "Tens\xE3o_78": -1151257415
+      "Tens\xE3o_79": -708281772
+      "Tens\xE3o_8": 1021269101
+      "Tens\xE3o_80": 2052017036
+      "Tens\xE3o_81": 581052374
+      "Tens\xE3o_82": 1512221852
+      "Tens\xE3o_83": -1638895922
+      "Tens\xE3o_84": -1760949205
+      "Tens\xE3o_85": -1796982815
+      "Tens\xE3o_86": 1400337181
+      "Tens\xE3o_87": 1105295481
+      "Tens\xE3o_88": -266510286
+      "Tens\xE3o_89": -760182122
+      "Tens\xE3o_9": -71141362
+      "Tens\xE3o_90": -1918505947
+      "Tens\xE3o_91": 1786545283
+      "Tens\xE3o_92": 1542656882
+      "Tens\xE3o_93": 1546328466
+      "Tens\xE3o_94": 302842230
+      "Tens\xE3o_95": -2020965899
+      "Tens\xE3o_96": -986658169
+      "Tens\xE3o_97": 523103941
+      "Tens\xE3o_98": 1436345597
+      "Tens\xE3o_99": 462274957
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
