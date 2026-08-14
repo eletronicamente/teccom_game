@@ -44,14 +44,14 @@ namespace CircuitGame.Circuit
                 {
                     valueText.text     = "?";
                     valueText.color    = unknownColor;
-                    valueText.fontSize = 40f;   // grande para chamar atenção
+                    valueText.fontSize = 64f;   // grande para chamar atenção
                     valueText.fontStyle = FontStyles.Bold;
                 }
                 else
                 {
                     valueText.text      = value;
                     valueText.color     = knownColor;
-                    valueText.fontSize  = 24f;
+                    valueText.fontSize  = 64f;
                     valueText.fontStyle = FontStyles.Normal;
                 }
             }

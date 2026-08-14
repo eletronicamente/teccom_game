@@ -127,7 +127,7 @@ namespace CircuitGame
             {
                 if (feedbackTitleText != null)
                 {
-                    feedbackTitleText.text  = "✅ Correto!";
+                    feedbackTitleText.text  = "Correto!";
                     feedbackTitleText.color = correctColor;
                 }
                 SetText(feedbackDetailText,
@@ -139,7 +139,7 @@ namespace CircuitGame
             {
                 if (feedbackTitleText != null)
                 {
-                    feedbackTitleText.text  = "❌ Resposta incorreta";
+                    feedbackTitleText.text  = "Resposta incorreta";
                     feedbackTitleText.color = incorrectColor;
                 }
                 SetText(feedbackDetailText,
@@ -160,10 +160,10 @@ namespace CircuitGame
  
             string performance = score switch
             {
-                _ when score == total        => "🏆 Perfeito! Você domina a Lei de Ohm!",
-                _ when score >= total * 0.7f => "🎯 Muito bem! Continue praticando.",
-                _ when score >= total * 0.4f => "📚 Quase lá! Revise as fórmulas.",
-                _                            => "🔁 Continue estudando. Tente novamente!"
+                _ when score == total        => "Perfeito! Você domina a Lei de Ohm!",
+                _ when score >= total * 0.7f => "Muito bem! Continue praticando.",
+                _ when score >= total * 0.4f => "Quase lá! Revise as fórmulas.",
+                _                            => "Continue estudando. Tente novamente!"
             };
  
             SetText(completeText,
